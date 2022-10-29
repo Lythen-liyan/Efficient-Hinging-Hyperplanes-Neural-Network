@@ -13,8 +13,7 @@ Different from the dominant single hidden layer neural networks, the hidden laye
 # 2 EHH Neural Network
 
 ## 2.1 Network Structure
-This fig shows a typical EHH neural network. It can be seen as a single hidden layer PWL neural network, which  
-includes an input layer, a hidden layer and an output layer.
+This fig shows a typical EHH neural network. It can be seen as a single hidden layer PWL neural network, which includes an input layer, a hidden layer and an output layer.
 ![image](https://github.com/Lythen-liyan/Efficient-Hinging-Hyperplanes-Neural-Network/blob/main/ehh_structure.png)
 
 ## 2.2 Pre-processing
