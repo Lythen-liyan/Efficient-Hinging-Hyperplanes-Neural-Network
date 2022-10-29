@@ -1,7 +1,11 @@
  clear
 close all
 %% generate the train data and test data
+
+%% you should change this address to put your own data here.
 load('C:/Users/hm383/Desktop/EHH/EHH/data/bouc-wen2.mat');
+
+
 na=10;%1;
 nb=15;
 dbstop if error
