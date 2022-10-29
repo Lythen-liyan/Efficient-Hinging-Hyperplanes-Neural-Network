@@ -13,17 +13,17 @@ Different from the dominant single hidden layer neural networks, the hidden laye
 # Efficient Hinging Hyperplanes Neural Network
 
 ## Network Structure
-This fig shows a typical EHH neural network. It can be seen as a single hidden layer PWL neural network, which  
-includes an input layer, a hidden layer and an output layer.
+Fig(a) shows a typical EHH neural network. It can be seen as a single hidden layer PWL neural network, which includes an input layer, a hidden layer and an output layer. Fig(b) shows the hidden layer of the EHH neural network.
 ![image](https://github.com/Lythen-liyan/Efficient-Hinging-Hyperplanes-Neural-Network/blob/main/ehh_structure.png)
+
 
 # How to Run
 
-> You should first package the data to be processed into a .mat file
+> You should first package the data to be processed into a .mat file and remember to change the data file address
 
 - run BoucWen_step_optimization.m
+- you can alter the network parameters by setting the config.ini
 
-> remember to change the data file address
 
 # Platform
 
