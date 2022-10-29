@@ -16,4 +16,4 @@ Different from the dominant single hidden layer neural networks, the hidden laye
 
 - run BoucWen_step_optimization.m
 
-> remember to alter the data file address
+> remember to change the data file address
