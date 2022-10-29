@@ -4,7 +4,7 @@ This code is for the paper "Efficient hinging hyperplanes neural network and its
 
 If you use this code, please kindly cite this paper: Xu J, Tao Q, Li Z, et al. Efficient hinging hyperplanes neural network and its application in nonlinear system identification[J]. Automatica, 2020, 116: 108906.
 
-If you have any questions, please contact us. Email: [hm.3839@qq.com](mailto:xiaofei_zh@foxmail.com)
+If you have any questions, please contact us. Email: [hm.3839@qq.com]
 
 # 1 Introduction
 
