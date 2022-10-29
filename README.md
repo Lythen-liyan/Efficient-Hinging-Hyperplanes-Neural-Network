@@ -17,3 +17,8 @@ Different from the dominant single hidden layer neural networks, the hidden laye
 - run BoucWen_step_optimization.m
 
 > remember to change the data file address
+
+# Platform
+
+- Win10
+- Matlab r2020
